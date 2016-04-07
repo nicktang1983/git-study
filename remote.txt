@@ -1,1 +1,4 @@
 new file
+merge new file
+test2
+test3
