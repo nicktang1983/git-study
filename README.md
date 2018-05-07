@@ -5,5 +5,9 @@ Git has a mutable index called stage.
 Git tracks changes.
 commit in branch.
 
+<<<<<<< dev
 
 dev commit
+=======
+master change
+>>>>>>> commit master
